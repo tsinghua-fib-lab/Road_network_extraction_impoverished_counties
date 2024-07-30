@@ -1,4 +1,4 @@
-**This is the code repository for Leveraging Deep Learning-based Road Extraction from Satellite Imagery for Socioeconomic Analysis in Impoverished Counties.**
+**This is the code repository for From Pixels to Progress: Generating Road Network from Satellite Imagery for Socioeconomic Insights in Impoverished Areas.**
 
 
 1. pre-processing: identify the noisy or cloud covered satellite imagery.
