@@ -1,4 +1,4 @@
-#This is the code repository for Leveraging Deep Learning-based Road Extraction from Satellite Imagery for Socioeconomic Analysis in Impoverished Counties. 
+**This is the code repository for Leveraging Deep Learning-based Road Extraction from Satellite Imagery for Socioeconomic Analysis in Impoverished Counties.**
 
 
 1. pre-processing: identify the noisy or cloud covered satellite imagery.
@@ -13,7 +13,7 @@
 
 6. sample_roadnetwork: an example of the extracted road network in one impoverished county. The whole dataset is too large to upload here. We are trying to upload them elsewhere.
 
-##Citation<br />
+**Citation**<br />
 If you find this project useful in your research, please consider citing:<br />
 
 @article{xi2024pixels,<br />
